@@ -9,11 +9,12 @@ using namespace std;
 	*Dia: 23/03/2022 **/
 
 int main()
-{
-	for (int i = 9; i < 44; i++)
+
 	{
-		cout << i << endl;
+		for (int i = 9; i < 44; i++)
+		{
+			cout << i << endl;
+		}
 	}
-}
 
 
