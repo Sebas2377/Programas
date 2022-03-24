@@ -3,7 +3,7 @@
     #include <stdio.h>
     using namespace std;
     
-    /** PROGRAMA #1  
+    /** PROGRAMA #5  
     *ESTE PROGRAMA TE IMPRIME LA TABLA DE POTENCIAS DEL 2 SIN EXCEDER EL NUMERO 1000!!
     *Alumno: VILLA LLANES JUAN SEBASTIAN - 19211752
     *Dia: 23/03/2022 **/
