@@ -3,7 +3,7 @@
     #include <stdio.h>
     using namespace std;
 
-    /** PROGRAMA #1  
+    /** PROGRAMA #3  
     *ESTE PROGRAMA CONTIENE UN CICLO FOR Y UNA CONDICION IF QUE HACE QUE TE IMPRIMA LOS NUMEROS PARES DEL 2-48!
     *Alumno: VILLA LLANES JUAN SEBASTIAN - 19211752
     *Dia: 23/03/2022 **/
