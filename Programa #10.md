@@ -3,7 +3,10 @@
     #include <stdio.h>
     using namespace std;
     
-    
+    /** PROGRAMA #10  
+    *ESTE PROGRAMA TE IMPRIME LA TABLA QUE TU PIDAS HASTA EL NUMERO 12!!
+    *Alumno: VILLA LLANES JUAN SEBASTIAN - 19211752
+    *Dia: 23/03/2022 **/
 
     int main()
     {;
