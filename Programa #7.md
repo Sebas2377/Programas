@@ -3,7 +3,10 @@
     #include <stdio.h>
     using namespace std;
     
-    
+    /** PROGRAMA #1  
+    *ESTE PROGRAMA TE MUESTRA SI UNA DIVISION ES DIVISIBLE O NO LO ES!
+    *Alumno: VILLA LLANES JUAN SEBASTIAN - 19211752
+    *Dia: 23/03/2022 **/
 
     int main()
     {;
