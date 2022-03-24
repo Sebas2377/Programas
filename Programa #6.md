@@ -3,7 +3,7 @@
     #include <stdio.h>
     using namespace std;
     
-    /** PROGRAMA #1  
+    /** PROGRAMA #6  
     *ESTE PROGRAMA HACE LA CONVERSION DE PULGADAS A YARDAS Y DE PIES A PULGADAS!
     *Alumno: VILLA LLANES JUAN SEBASTIAN - 19211752
     *Dia: 23/03/2022 **/
