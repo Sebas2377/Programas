@@ -8,20 +8,17 @@
     *Alumno: VILLA LLANES JUAN SEBASTIAN - 19211752
     *Dia: 23/03/2022 **/
 
-    int main()
-    {;
-
-            int a, b, c;
-            printf("Ingrese 2 numeros: \n");
+       int a, b, c;
+            printf("Ingrese un numeros: \n");
            cin >> a;
-           cin >> b;
+           b = 14;
             c = a % b;
-            if ((b < a) && (c == 0)) {
-                printf("Es DIVISIBLE\n");
+            if ((b % a) && (c == 0 &&)) {
+                printf("Es DIVISIBLE entre 14\n");
             }
             else
             {
-                printf("No es DIVISIBLE\n");
+                printf("No es DIVISIBLE entre 14\n");
             }
 
             return 0;
