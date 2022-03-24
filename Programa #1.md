@@ -8,7 +8,7 @@ using namespace std;
 	*Alumno: VILLA LLANES JUAN SEBASTIAN - 19211752
 	*Dia: 23/03/2022 **/
 
-int main()
+	int main()
 
 	{
 		for (int i = 9; i < 44; i++)
