@@ -3,7 +3,10 @@
     #include <stdio.h>
     using namespace std;
     
-    
+    /** PROGRAMA #1  
+	*ESTE PROGRAMA LLEVA UN SIMPLE CICLO FOR DONDE TE IMPRIMIRA TODOS LOS NUMEROS ENTEROS DEL 1-30 CON SUS RESPECTIVOS RECIPROCOS!
+	*Alumno: VILLA LLANES JUAN SEBASTIAN - 19211752
+	*Dia: 23/03/2022 **/
 
     int main()
     {
